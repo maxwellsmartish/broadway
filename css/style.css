@@ -6,6 +6,7 @@
 .header {
 
 		background-image: url("../assets/building.png");
+		background-repeat: no-repeat;
 }
 
 h1 {
@@ -36,4 +37,22 @@ h3 {
 }
 p {
 	font-size: 14px;
+}
+h2 {
+	font-size:32px;
+	font-weight: bold;
+	}
+
+.designbar  {
+	color:white;
+}
+
+
+#copyright {
+	font-size: 11px;
+}
+
+nav {
+	text-align: left;
+	background-color:dimgray;
 }
