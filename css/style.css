@@ -1,28 +1,24 @@
-body {
+* {
 	text-align: center;
-}
-
-#header {
-		min-height: 300px;
-		background-image: url("../assets/building.png");
-		
-}
-
-
-
-
-
-nav {
-
 	font-family: Helvetica;
-	font-size: 18px;
-	color: white;
-	text-align: center;
 }
+
+
+body {
+	
+}
+
+.header {
+
+		background-image: url("../assets/building.png");
+
+}
+
+
+
 
 h1 {
 
-	font-family: Helvetica;
 	font-size: 70px;
 	font-weight: bold;
 	color:white;
@@ -30,4 +26,8 @@ h1 {
 
 ul {
 	list-style: none;
+}
+
+.designbar {
+	background-image: url("../assets/building.png");
 }
