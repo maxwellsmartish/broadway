@@ -31,3 +31,9 @@ ul {
 .designbar {
 	background-image: url("../assets/building.png");
 }
+a{
+
+	font-size: 18px;
+	color: white;
+	font-weight: bold;
+}
